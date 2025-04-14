@@ -17,7 +17,7 @@ To predict **delayed drug shipments** using pre-dispatch information (region, ca
 
 ## 🧪 Dataset Overview
 
-Simulated dataset (`drug_shipment_delays.csv`) with ~4000 rows and 10+ features:
+(`drug_shipment_delays.csv`) with ~4000 rows and 10+ features:
 
 - `region`, `carrier`, `ship_day`
 - `scheduled_days`, `actual_days`, `delay_duration`
